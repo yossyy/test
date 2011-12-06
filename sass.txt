@@ -1,0 +1,5 @@
+
+pushd \\computer1\project1\program1
+
+ディレクトリ移動後
+sass --watch scss:css
